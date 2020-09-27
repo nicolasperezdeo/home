@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ceab12bb.chunk.css",
+    "main.js": "/static/js/main.edaa7149.chunk.js",
+    "main.js.map": "/static/js/main.edaa7149.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6a060e8a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6a060e8a.js.map",
+    "static/js/2.ed7955e3.chunk.js": "/static/js/2.ed7955e3.chunk.js",
+    "static/js/2.ed7955e3.chunk.js.map": "/static/js/2.ed7955e3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.489c9a2ecd5407326289ec419bd5b574.js": "/precache-manifest.489c9a2ecd5407326289ec419bd5b574.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ceab12bb.chunk.css.map": "/static/css/main.ceab12bb.chunk.css.map",
+    "static/js/2.ed7955e3.chunk.js.LICENSE.txt": "/static/js/2.ed7955e3.chunk.js.LICENSE.txt",
+    "static/media/DHZMHH.png": "/static/media/DHZMHH.6c9cc3d6.png",
+    "static/media/UHH_LOGO_S.png": "/static/media/UHH_LOGO_S.5e46c89c.png",
+    "static/media/chimera.gif": "/static/media/chimera.b5dbed1d.gif",
+    "static/media/cochlear.jpg": "/static/media/cochlear.fd40d57a.jpg",
+    "static/media/face_small.png": "/static/media/face_small.688e39e5.png",
+    "static/media/master.png": "/static/media/master.11bafb25.png",
+    "static/media/resume.pdf": "/static/media/resume.c5ef7f31.pdf",
+    "static/media/ts_logo.png": "/static/media/ts_logo.9785aaa1.png",
+    "static/media/xray.png": "/static/media/xray.6428a5cd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a060e8a.js",
+    "static/js/2.ed7955e3.chunk.js",
+    "static/css/main.ceab12bb.chunk.css",
+    "static/js/main.edaa7149.chunk.js"
+  ]
+}
